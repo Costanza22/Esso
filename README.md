@@ -19,3 +19,13 @@ O projeto é composto por dois arquivos principais:
 **index.html:** O arquivo HTML que contém a estrutura e o conteúdo do site.
 
 **styles.css:** O arquivo CSS que define o estilo e o layout do site.
+
+
+Este projeto está licenciado sob a licença MIT.
+
+**Contato**
+
+Para qualquer dúvida ou sugestão, entre em contato comigo pelo e-mail [pinassef22@gmail.com].
+
+![](https://th.bing.com/th/id/OIP.A9mQKS135BmbGzrAcdLugwHaCe?rs=1&pid=ImgDetMain)
+
