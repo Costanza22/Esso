@@ -27,5 +27,5 @@ Este projeto está licenciado sob a licença MIT.
 
 Para qualquer dúvida ou sugestão, entre em contato comigo pelo e-mail [pinassef22@gmail.com].
 
-![](https://th.bing.com/th/id/OIP.A9mQKS135BmbGzrAcdLugwHaCe?rs=1&pid=ImgDetMain)
+![](https://cdn.shopify.com/s/files/1/0021/9198/2656/products/Esso_tiger_in_your_tank_600x600.jpg?v=1542482666)
 
