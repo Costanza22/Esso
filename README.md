@@ -1,4 +1,5 @@
 **História do Posto Esso**
+
 ![](https://cdn.shopify.com/s/files/1/0021/9198/2656/products/Esso_tiger_in_your_tank_600x600.jpg?v=1542482666)
 
 A Esso é uma marca de combustíveis que faz parte da ExxonMobil, uma das maiores empresas de energia do mundo. Fundada em 1911, a Esso surgiu como uma marca da Standard Oil Company, que foi dividida em várias empresas em 1911, e a Esso foi uma das marcas resultantes dessa divisão.
