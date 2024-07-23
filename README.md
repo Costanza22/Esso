@@ -16,5 +16,6 @@ Este projeto consiste em um site simples desenvolvido em HTML e CSS para informa
 
 O projeto é composto por dois arquivos principais:
 
-index.html: O arquivo HTML que contém a estrutura e o conteúdo do site.
-styles.css: O arquivo CSS que define o estilo e o layout do site.
+**index.html:** O arquivo HTML que contém a estrutura e o conteúdo do site.
+
+**styles.css:** O arquivo CSS que define o estilo e o layout do site.
